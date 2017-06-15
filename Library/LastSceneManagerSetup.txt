@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Stealth.unity
+  isLoaded: 1
+  isActive: 1
